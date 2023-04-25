@@ -1,0 +1,6 @@
+
+discord>=2.0.0
+torch>=1.7.0  # start of YOLO requirements
+torchvision>=0.8.1
+requests>=2.23.0
+Pillow>=7.1.2
